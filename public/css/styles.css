@@ -1,6 +1,10 @@
 
 body {
-  background-color: #E8ECEF;
+  background-color: #F6D167;
+}
+
+.jumbotron{
+  background-color: #F6D167;
 }
 
 .centered {
@@ -11,6 +15,12 @@ body {
 .secret-text {
   text-align: center;
   font-size: 2rem;
-  color: #fff;
-  background-color: #000;
+  color: #F6D167;
+  background-color: #082032;
 }
+
+.card-body{
+  background-color: #FDE49C;
+}
+
+
